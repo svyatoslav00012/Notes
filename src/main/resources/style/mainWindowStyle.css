@@ -1,0 +1,19 @@
+#addButton{
+    -fx-background-radius: 50px;
+    -fx-border-radius: 50px;
+    -fx-font-size: 20px;
+    -fx-font-weight: 900;
+    -fx-background-color: green;
+    -fx-text-fill: white;
+    -fx-cursor: hand;
+}
+
+#addButton:hover{
+    -fx-background-color: white;
+    -fx-text-fill: green;
+    -fx-border-color: green;
+}
+
+.scroll-pane .scroll-bar{
+    -fx-font-size: 20px;
+}
